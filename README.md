@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
+
 <h1 align="center">Hi 👋, I'm Bora Toroslu</h1>
 <h3 align="center">A passionate Java developer from Turkey.</h3>
 
